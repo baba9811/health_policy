@@ -1,0 +1,17 @@
+bs4: url에서 html 파싱, 텍스트데이터 추출을 위해 사용
+requests: url을 긁어오기 위해 사용
+selenium: chromedriver를 이용한 동적크롤링을 위해 사용
+re: 정규표현식을 통해 데이터 전처리를 위해 사용
+tqdm: for문에서 진행상황을 확인하기 위해 사용
+pandas: 데이터프레임을 통한 데이터의 처리를 위해 사용
+konlpy: 한글 자연어처리 mecab, hannanum 등의 형태소태깅과 토큰화를 위해 사용
+pickle: list, set 자료형을 파일로 저장하기 위해 사용
+itertools: 2중 리스트 자료형을 1차원으로 낮추기 위해 사용
+sklearn: countvectorizer를 통한 벡터화와 cosinesimilarity 계산을 위해 사용
+sentence_transformer: text embedding을 위해 사용
+collections: counter로 wordcount를 위해 사용
+wordcloud: wordcloud 생성을 위해 사용
+matplotlib.pyplot: wordcloud 시각화를 위해 사용
+bertopic: 토픽모델링을 위해 사용
+gensim: 단어 임베딩인 word2vec을 위해 사용
+IPython: 파이썬에서 저장된 이미지 파일을 출력하기 위해 사용
